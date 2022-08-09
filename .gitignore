@@ -2,3 +2,4 @@ build/
 gcm.cache/
 a.out
 *.o
+*.db
